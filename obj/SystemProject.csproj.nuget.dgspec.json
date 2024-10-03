@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodnie caracena jr\\source\\SystemProject\\SystemProject.csproj": {}
+    "D:\\Code-Space\\VisualStudio\\FullStack\\Sample\\SystemProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodnie caracena jr\\source\\SystemProject\\SystemProject.csproj": {
+    "D:\\Code-Space\\VisualStudio\\FullStack\\Sample\\SystemProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodnie caracena jr\\source\\SystemProject\\SystemProject.csproj",
+        "projectUniqueName": "D:\\Code-Space\\VisualStudio\\FullStack\\Sample\\SystemProject.csproj",
         "projectName": "SystemProject",
-        "projectPath": "C:\\Users\\rodnie caracena jr\\source\\SystemProject\\SystemProject.csproj",
-        "packagesPath": "C:\\Users\\rodnie caracena jr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodnie caracena jr\\source\\SystemProject\\obj\\",
+        "projectPath": "D:\\Code-Space\\VisualStudio\\FullStack\\Sample\\SystemProject.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "D:\\Code-Space\\VisualStudio\\FullStack\\Sample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rodnie caracena jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
